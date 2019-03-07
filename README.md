@@ -1,5 +1,5 @@
 # Docker-Compose-with-Multiple-Local-Containers
-A web application built on NodeJS and hosted using Docker container that counts the number of visits to a web-page. 
+A web application built on NodeJS and Redis server, hosted using Docker container, which counts the number of visits to a web-page.
 
 # To build multiple containers using docker-compose
 docker-compose up
